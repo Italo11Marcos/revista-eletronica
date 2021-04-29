@@ -29,7 +29,7 @@
                     <div class="col-sm-12">
                         <div class="form-group">
                             <label>Resumo: </label>
-                            <textarea class="form-control" name="resumo" rows="3"></textarea>
+                            <textarea class="form-control" name="resumo" rows="3" required></textarea>
                         </div>
                     </div>
                 </div>

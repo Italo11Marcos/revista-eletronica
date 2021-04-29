@@ -6,6 +6,10 @@ use Illuminate\Http\Request;
 use App\Models\Submissao;
 use App\Models\Artigo;
 use App\Models\Revista;
+use App\User;
+use App\Notifications\NotificarSubmissaoUser;
+use Illuminate\Support\Facades\Notification;
+use Illuminate\Support\Facades\Auth;
 
 class SubmissaoController extends Controller
 {
@@ -33,7 +37,8 @@ class SubmissaoController extends Controller
             // Get just ext
             $extension = $request->file('file')->getClientOriginalExtension();
             // Filename to store
-            $fileNameToStore= $filename.'.'.$extension;
+            $date = date('d-m-Y-H-i');
+            $fileNameToStore= $filename.$date.'.'.$extension;
             // Upload pdf
             $path = $request->file('file')->storeAs('file', $fileNameToStore);
         } else {
@@ -50,8 +55,15 @@ class SubmissaoController extends Controller
             'user_id' => $request->user_id,
         ]);
 
-        if($submissao)
+        $user = User::find(Auth::id());
+        //dd($user);
+
+        if($submissao){
+            //Notification::route('mail', Auth::user()->email)->notify;
+            Notification::send($user, new NotificarSubmissaoUser());
             return redirect()->back()->with('success','Submissão enviada com sucesso');
+        }
+            
         else
             return redirect()->back()->with('error','Eita, tivemos algum problema');
     }
