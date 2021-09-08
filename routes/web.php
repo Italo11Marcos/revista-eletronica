@@ -17,6 +17,8 @@ Route::get('/anterior', 'SiteController@anterior')->name('anterior');
 Route::get('/equipe-editorial', 'SiteController@equipe')->name('equipe');
 Route::get('/contato', 'SiteController@contato')->name('contato');
 Route::get('/about', 'SiteController@about')->name('about');
+Route::get('/indexadores', 'SiteController@indexadores')->name('indexadores');
+Route::get('/diretivas', 'SiteController@diretivas')->name('diretivas');
 
 Route::group(['prefix' => 'panel', 'middleware' => 'auth'], function() {
 

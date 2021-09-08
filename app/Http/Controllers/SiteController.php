@@ -66,4 +66,14 @@ class SiteController extends Controller
     {
         return view('site.contato');
     }
+
+    public function indexadores()
+    {
+        return view('site.indexadores');
+    }
+
+    public function diretivas()
+    {
+        return view('site.diretivas');
+    }
 }

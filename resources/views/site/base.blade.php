@@ -106,9 +106,11 @@
                 <a class="p-2 text-muted" href=" {{ route('atual') }} ">Atual</a>
                 <a class="p-2 text-muted" href=" {{ route('anterior') }} ">Anteriores</a>
                 <a class="p-2 text-muted" href=" {{ route('about') }} ">Sobre a Revista</a>
+                <a class="p-2 text-muted" href=" {{ route('indexadores') }} ">Indexadores</a>
                 <a class="p-2 text-muted" href=" {{ route('equipe') }} ">Equipe Editorial</a>
                 <a class="p-2 text-muted" href=" {{ route('contato') }} ">Contato</a>
                 <a class="p-2 text-muted" href=" {{ route('index-submissao') }} ">Submissões</a>
+                <a class="p-2 text-muted" href=" {{ route('diretivas') }} ">Diretrizes para autores</a>
             </nav>
         </div>
 
