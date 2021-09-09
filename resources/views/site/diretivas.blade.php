@@ -4,6 +4,14 @@
     
 <div class="col-md-12">
     <div class="row no-gutters border rounded overflow-hidden  position-relative">
+
+        <div class="col-md-6 text-center pt-3">
+            <a href=" {{ url("assets/edital/ErgaOmnes-ChamadaPublicacao-022021.pdf") }} " class="btn btn-outline-success btn-lg" target="_blank"><i class="far fa-file-pdf"> Nova Chamada Edital 01/2021</i></a>
+        </div>
+        <div class="col-md-6 text-center pt-3">
+            <a href=" {{ url("assets/template/ErgaOmnes-Template 02_2021.docx") }} " class="btn btn-outline-info btn-lg" target="_blank"><i class="fas fa-file-word"> Template 01/2021</i></a>
+        </div>
+
         <div class="col p-4 d-flex flex-column position-static">
         <h5 >Diretrizes para autores</h5>
         <p class="text-justify">

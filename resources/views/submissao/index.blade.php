@@ -1,13 +1,6 @@
 @extends('site.base')
 
 @section('content')
-
-<div class="col-md-12">
-    <div class="row no-gutters border rounded overflow-hidden position-relative">
-        <a href=" {{ url("assets/template/ErgaOmnes-Template 02_2021.docx") }} " class="btn btn-outline-info btn-lg" target="_blank"><i class="fas fa-file-word"> Template 01/2021</i></a>
-    </div>
-    <br/>
-</div>
     
 <div class="col-md-12">
     <div class="card">

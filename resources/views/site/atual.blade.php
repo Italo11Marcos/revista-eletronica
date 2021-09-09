@@ -2,12 +2,6 @@
 
 @section('content')
 
-<div class="col-md-12">
-    <div class="row no-gutters border rounded overflow-hidden position-relative">
-        <a href=" {{ url("assets/edital/ErgaOmnes-ChamadaPublicacao-022021.pdf") }} " class="btn btn-outline-success btn-lg" target="_blank"><i class="far fa-file-pdf"> Nova Chamada Edital 01/2021</i></a>
-    </div>
-    <br/>
-</div>
 
 <div class="col-md-12">
     <div class="row no-gutters border rounded overflow-hidden  position-relative">
