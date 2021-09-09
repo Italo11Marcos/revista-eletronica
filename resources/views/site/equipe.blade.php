@@ -13,13 +13,13 @@
                 <li> <a href="http://lattes.cnpq.br/9480423427512713" target="_blank">Profa. Ma. Heidy Cristina Boaventura Siqueira</a>, Faculdade Verde Norte – FAVENORTE</li>
             </ul>
             <ul>
-                <li> <a href="http://lattes.cnpq.br/5524337831896336" target="_blank">Profa. Esp. Wellem Ribeiro da Silva</a>, Faculdade Verde Norte – FAVENORTE</li>
+                <li> <a href="http://lattes.cnpq.br/5524337831896336" target="_blank">Profa. Wellem Ribeiro da Silva</a>, Faculdade Verde Norte – FAVENORTE</li>
             </ul>
         </p>
         <h5>Editores Associados</h5>
         <p>
             <ul>
-                <li> <a href="http://lattes.cnpq.br/5440122182282872" target="_blank">Prof. Esp. Bruno Cordeiro Silva</a>, Faculdade Verde Norte – FAVENORTE</li>
+                <li> <a href="http://lattes.cnpq.br/5440122182282872" target="_blank">Prof. Me. Bruno Cordeiro Silva</a>, Faculdade Verde Norte – FAVENORTE</li>
                 Área de Concentração: Direito e Processo Civil
             </ul>
             <ul>
@@ -27,7 +27,7 @@
                 Área de Concentração: Direito e Processo Penal
             </ul>
             <ul>
-                <li> <a href="http://lattes.cnpq.br/3441993059518395" target="_blank">Prof. Esp. Fábio Fonseca Telles</a>, Faculdade Verde Norte – FAVENORTE</li>
+                <li> <a href="http://lattes.cnpq.br/3441993059518395" target="_blank">Prof. Fábio Fonseca Telles</a>, Faculdade Verde Norte – FAVENORTE</li>
                 Área de Concentração: Direito Empresarial e Agrário
             </ul>
             <ul>
@@ -65,7 +65,7 @@
                 <li> <a href="http://lattes.cnpq.br/9519467259340794" target="_blank">Prof. Me. Bruno Lutianny Fagundes Monção</a>, Faculdade Verde Norte – FAVENORTE</li>
             </ul>
             <ul>
-                <li> <a href="http://lattes.cnpq.br/5094273236925513" target="_blank">Prof. Esp. Eduardo Vinícius Pereira Barbosa</a>, Faculdades Integradas do Norte de Minas – FUNORTE</li>
+                <li> <a href="http://lattes.cnpq.br/5094273236925513" target="_blank">Prof. Me. Eduardo Vinícius Pereira Barbosa</a>, Faculdades Integradas do Norte de Minas – FUNORTE</li>
             </ul>
             <ul>
                 <li> <a href="http://lattes.cnpq.br/9187015578021297" target="_blank">Prof. Me. Ernandes Gonçalves Dias</a>, Faculdade Verde Norte – FAVENORTE</li>
@@ -90,7 +90,7 @@
                 <li> <a href="http://lattes.cnpq.br/3408248018269647" target="_blank">Prof. Me. Marcelo Palma de Brito</a>, Faculdades Unidas do Norte de Minas – FUNORTE</li>
             </ul>
             <ul>
-                <li> <a href="http://lattes.cnpq.br/0214246090654490" target="_blank">Profa. Ma. Maria Aparecida Antunes Moreira</a>, Faculdade Verde Norte - FAVENORTE</li>
+                <li> <a href="http://lattes.cnpq.br/0214246090654490" target="_blank">Profa. Dra. Maria Aparecida Antunes Moreira</a>, Faculdade Verde Norte - FAVENORTE</li>
             </ul>
             <ul>
                 <li> <a href="http://lattes.cnpq.br/0214246090654490" target="_blank">Profa. Dra. Maria Aparecida Antunes Moreira</a>, Faculdade Verde Norte – FAVENORTE</li>
@@ -108,7 +108,7 @@
                 <li> <a href="http://lattes.cnpq.br/2358183520538319" target="_blank">Profa. Ma. Miriane Santos Prates</a>, Faculdade Verde Norte - FAVENORTE</li>
             </ul>
             <ul>
-                <li> <a href="http://lattes.cnpq.br/8503938641053629" target="_blank">Prof. Esp. Newller Thiago Fernandes Mascarenhas</a>, Universidade Federal dos Vales do Jequitinhonha e Mucuri – UFVJM</li>
+                <li> <a href="http://lattes.cnpq.br/8503938641053629" target="_blank">Prof. Newller Thiago Fernandes Mascarenhas</a>, Universidade Federal dos Vales do Jequitinhonha e Mucuri – UFVJM</li>
             </ul>
             <ul>
                 <li> <a href="http://lattes.cnpq.br/3849468753935741" target="_blank">Prof. Me. Pedro Henrique Feliciano</a>, Faculdade Verde Norte - FAVENORTE</li>
