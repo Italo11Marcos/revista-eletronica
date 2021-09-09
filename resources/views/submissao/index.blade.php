@@ -3,7 +3,6 @@
 @section('content')
     
 <div class="col-md-12">
-    <div class="card">
         <div class="card-box">
             @include('alerts')
             <h4>Submeter Artigo</h4>
@@ -60,7 +59,6 @@
                 <button type="submit" class="btn btn-success">Enviar Artigo</button>
             </form>
         </div>
-    </div>
 </div>
 
 @endsection
